@@ -74,6 +74,8 @@ if __name__ == "__main__":
         elif choice == "7":
             print("Zakończono program.")
             break
+        elif choice =="8":
+            print("pomysl jeszcze raz")
 
         else:
             print("Nieprawidłowy wybór, spróbuj ponownie.")   
